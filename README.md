@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 - 💻 Full-stack developer
-- 📖 Pursuing a Masters in Computer Science
-- 🤔 Curious about [Svelte](https://svelte.dev/)
+- 🐃 Pursuing a Masters in Computer Science & Graduate Certificate in Data Science
+- 🤔 Curious about [Svelte(Kit)](https://svelte.dev/) and [HTMX](https://htmx.org/)
 
 <!--
 **davidhwilliams/davidhwilliams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
