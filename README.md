@@ -4,8 +4,6 @@
 - 🐃 Pursuing a Masters in Computer Science & Graduate Certificate in Data Science
 - 🤔 Curious about [Svelte(Kit)](https://svelte.dev/) and [HTMX](https://htmx.org/)
 
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/david-h-williams)
-
 ## Skills
 
 #### Programming
