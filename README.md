@@ -6,16 +6,20 @@
 
 ## Skills
 
-#### Programming
-![Programming](https://skillicons.dev/icons?i=java,python,js,ts,ruby,r)
+| Programming                                                                                |
+|--------------------------------------------------------------------------------------------|
+| ![Programming](https://skillicons.dev/icons?i=java,python,ruby,r,html,css,js,ts&perline=4) | 
 
-#### Frameworks
-![Frameworks](https://skillicons.dev/icons?i=html,css,nodejs,react,svelte,rails,spring,tailwind,fastapi,jquery,vite&perline=6)
+| Frameworks                                                                                                     |
+|----------------------------------------------------------------------------------------------------------------|
+| ![Frameworks](https://skillicons.dev/icons?i=react,svelte,rails,spring,tailwind,fastapi,jquery,vite&perline=4) |
 
-#### DevOps / Tools
-![devops](https://skillicons.dev/icons?i=git,github,githubactions,aws,docker)  
-![tools](https://skillicons.dev/icons?i=idea,eclipse,vscode,maven,sublime)
+| DevOps / Tools                                                     |
+|--------------------------------------------------------------------|
+| ![DevOps](https://skillicons.dev/icons?i=git,github,aws,docker)    | 
+| ![Tools](https://skillicons.dev/icons?i=idea,vscode,sublime,maven) | 
 
-#### Databases / Others
-![databases](https://skillicons.dev/icons?i=cassandra,mysql,postgres)  
-![others](https://skillicons.dev/icons?i=md,obsidian,figma)
+| Databases / Others                                                    |
+|-----------------------------------------------------------------------|
+| ![Databases](https://skillicons.dev/icons?i=cassandra,mysql,postgres) |
+| ![Others](https://skillicons.dev/icons?i=md,obsidian,figma)           |
