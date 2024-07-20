@@ -1,7 +1,9 @@
 ## Hello There 🤙
 
 - 💻 Full-stack developer
-- 🐃 Pursuing a Masters in Computer Science & Graduate Certificate in Data Science
+- 🐃 Pursuing a Masters in Computer Science...
+  - Graduate Certificate in Data Science
+  - Graduate Certificate in Artificial Intelligence
 - 🤔 Curious about [Svelte(Kit)](https://svelte.dev/) and [HTMX](https://htmx.org/)
 
 ## Skills
