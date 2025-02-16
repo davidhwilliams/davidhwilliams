@@ -3,8 +3,6 @@
 💻 Full-stack developer  
 
 🐃 Pursuing a [Masters in Computer Science](https://www.colorado.edu/cs/academics)  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;Data Science Graduate Certificate  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-&nbsp;AI Graduate Certificate  
 
 ## Skills
 | Programming                                                                                | Frameworks                                                                                                     |
