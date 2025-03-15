@@ -2,17 +2,21 @@
 
 💻 Full-stack developer  
 
-🐃 Pursuing a [Masters in Computer Science](https://www.colorado.edu/cs/academics)  
+🐃 Pursuing a [MS in Computer Science](https://www.colorado.edu/cs/academics)  
 
 ## Skills
-| Programming                                                                                | Frameworks                                                                                                     |
-|--------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| ![Programming](https://skillicons.dev/icons?i=html,css,js,ts,java,python,ruby,r&perline=4) | ![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,svelte,vite,vitest,spring,rails&perline=4) |
 
-| DevOps                                                     | Databases                                                    |
-|--------------------------------------------------------------------|-----------------------------------------------------------------------|
-| ![DevOps](https://skillicons.dev/icons?i=git,aws,docker,kubernetes)    | ![Databases](https://skillicons.dev/icons?i=postgres,cassandra,mysql,sequelize) |
+### Programming
+![Programming](https://skillicons.dev/icons?i=html,css,ts,js,java,python,go)
 
-| Tools                                                    |
-|-----------------------------------------------------------------------|
-| ![Tools](https://skillicons.dev/icons?i=idea,vscode,obsidian,figma)   |
+### Frameworks / Libraries
+![Frameworks](https://skillicons.dev/icons?i=nodejs,express,react,materialui,vite,vitest) 
+
+### DevOps / Cloud
+![DevOps](https://skillicons.dev/icons?i=git,github,githubactions,gitlab,aws,docker,kubernetes)
+
+### Database
+![Databases](https://skillicons.dev/icons?i=postgres,sequelize,cassandra)
+
+### Tools / Misc
+![Tools](https://skillicons.dev/icons?i=idea,vscode,obsidian,figma,md)
